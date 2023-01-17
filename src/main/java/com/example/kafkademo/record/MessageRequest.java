@@ -1,4 +1,4 @@
-package com.example.kafkademo;
+package com.example.kafkademo.record;
 
 public record MessageRequest(String message) {
 }
